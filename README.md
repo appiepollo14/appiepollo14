@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asjer</h1>
 <h3 align="center">A passionate full-stack developer from Ede</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=appiepollo14&label=Profile%20views&color=0e75b6&style=flat" alt="appiepollo14" /> </p>
-
 - 🔭 I’m currently working on **a traineeship learning software development**
 
 - 🌱 I’m currently learning **Java, Quarkus and Angular**
