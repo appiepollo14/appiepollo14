@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asjer</h1>
 <h3 align="center">A passionate Software Engineer from Ede</h3>
 
-- 🔭 I’m currently working on **a traineeship learning software development**
+- 🔭 I’m currently working on [MicroShed Testing](https://microshed.org/microshed-testing/)
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD, Java, Quarkus**
 
