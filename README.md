@@ -15,6 +15,12 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 </a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a>
+<a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
+<img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_256px_reverse.png" alt="quarkus" width="40" height="40"/> 
+</a> 
 <a href="https://tekton.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://www.ibm.com/content/dam/adobe-cms/product/sites/default/files/2020-04-01/47602533_1.png" alt="tekton" width="40" height="40"/> 
 </a> 
@@ -27,9 +33,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
-<a href="https://quarkus.io/" target="_blank" rel="noreferrer"> 
-<img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_256px_reverse.png" alt="quarkus" width="40" height="40"/> 
-</a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> 
